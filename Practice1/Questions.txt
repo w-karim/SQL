@@ -1,0 +1,11 @@
+1) find the maximum quantity sold
+2) Find the unique products 
+3) Find the product category that has maximum products
+4) Find the state where most stores are presents
+5) Find the top 5 product IDs that did maximum sales in terms of quantity
+6) Similarly find the top 5 proprety ids that did maximum quantity
+7) Find the top 5 product names that did maximum sales in terms of quantity
+8) Find the top 5 products that did maximum sales
+9) Find the cities that did maximum sales
+10) change data type of OrderDate in table tr_orderdetails
+11) Find the total quantity ordered during all months
